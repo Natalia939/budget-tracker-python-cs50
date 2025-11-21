@@ -23,12 +23,12 @@ A simple, interactive command-line **Budget Tracker** written in Python that all
 - 📄 CSV for data export  
 
 ## ▶️ How to Run  
-1. Clone the repository: `git clone https://github.com/your-username/budget-tracker-cs50p.git`  
+1. Clone the repository: `git clone https://github.com/Natalia939/budget-tracker-cs50p.git`  
 2. Navigate to the project folder: `cd budget-tracker-cs50p`  
 3. Run the program: `python3 project.py`
 
-# No external dependencies required
+### No external dependencies required
 
 
-👩‍💻 Author: Nataliia Gvozdovska – Web Developer & Designer  
+👩‍💻 Author: Natalia Gvozdovska – Web Developer & Designer  
 Created on: February, 2025
